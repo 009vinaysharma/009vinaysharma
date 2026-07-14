@@ -1,140 +1,246 @@
-- # Hi 👋, I'm Vinay Sharma
-A passionate software engineer who ❤️ making awesome stuff.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 🔭 I’m currently working on **Cool Projects**
-- 🌱 I’m currently learning **Machine Learning and Web Development**
-- ⚡ Fun fact **I am Mr. Perfect**
+<div align="center">
+
+# 👋 Hi, I'm Vinay Sharma
+
+### 🚀 AI & Machine Learning Enthusiast | Data Science Learner | AWS Cloud Explorer
+
+<p>
+  Building intelligent applications by combining
+  <b>Machine Learning, Data Science, Backend Development, and Cloud Technologies</b>.
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=009vinaysharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+</div>
+
 ---
 
-### Connect with me:
+## 👨‍💻 About Me
+
+- 🎓 B.Tech student in **Computer Science & Engineering (Artificial Intelligence)**
+- 🤖 Passionate about **Machine Learning, Data Science, AI and Cloud Computing**
+- ☁️ Hands-on experience with **AWS Machine Learning deployment workflows**
+- 🔭 Currently building **Machine Learning and Cloud-based projects**
+- 🌱 Currently learning **Machine Learning, Django, MLOps and AWS**
+- 🚀 Interested in deploying **real-world ML models into production**
+- 💡 Exploring **Data Science, Backend Development and Cloud Architecture**
+- 🤝 Open to collaborating on **AI, ML, Data Science and Open Source projects**
+- ⚡ I enjoy turning ideas and ML models into **working applications**
+
+---
+
+## 🎯 Current Focus
+
+```text
+Machine Learning  →  Model Development
+Data Science      →  Data Analysis & Insights
+AWS Cloud         →  ML Model Deployment
+FastAPI / Django  →  Backend Development
+MLOps             →  End-to-End ML Workflows
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vinay-sharma-2679a6270/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/009vinaysharma?igsh=ZHV2ZW5oZnZwMm1u" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart" />
+</p>
+
+### 🌐 Web & Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,django" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
-### Languages and Tools:
+
+## 🤖 Machine Learning & Data Science
 
 <p align="left">
 
-<!-- Programming Languages -->
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ AWS Cloud & Machine Learning
+
+I have hands-on experience building and deploying machine learning workflows using AWS services.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+</p>
+
+### 🔄 AWS ML Deployment Workflow
+
+```text
+Machine Learning Model
+        ↓
+Model Serialization
+        ↓
+Amazon S3
+        ↓
+Amazon SageMaker Endpoint
+        ↓
+AWS Lambda
+        ↓
+Amazon API Gateway
+        ↓
+FastAPI Backend
+        ↓
+Web Application
+```
+
+---
+
+## 📊 Data Analytics & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AWS MLOps Student Marks Predictor
+
+An end-to-end machine learning deployment project built using:
+
+`Python` • `Scikit-learn` • `Amazon S3` • `Amazon SageMaker` • `AWS Lambda` • `Amazon API Gateway` • `FastAPI`
+
+**Architecture:**
+
+```text
+Frontend → FastAPI → API Gateway → Lambda → SageMaker → ML Prediction
+```
+
+🔗 **Repository:**  
+https://github.com/009vinaysharma/AWS-MLOps-Student-Marks-Predictor-final
+
+---
+
+### 🩺 Healthcare Disease Prediction
+
+A machine learning web application for predicting health-related outcomes using trained ML models.
+
+**Technologies:**
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Streamlit`
+
+---
+
+### 📄 AI Resume Analyzer
+
+An AI-powered application designed to analyze resumes and provide useful insights.
+
+**Technologies:**
+
+`Python` • `AI/ML` • `Web Development`
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=009vinaysharma&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=009vinaysharma&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=009vinaysharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=009vinaysharma&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vinay-sharma-2679a6270/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<a href="https://www.instagram.com/009vinaysharma" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-009vinaysharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-
-<!-- Web Development -->
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-</a>
-
-
-<!-- Data Science & Machine Learning -->
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-</a>
-
-<a href="https://streamlit.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
-</a>
-
-
-<!-- Cloud -->
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-</a>
-
-
-<!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
-</a>
-
-
-<!-- Mobile Development -->
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-</a>
-
-<a href="https://dart.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</a>
-
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-</a>
-
-
-<!-- Data Analytics -->
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+<a href="https://github.com/009vinaysharma" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-009vinaysharma-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### 💡 "Building, learning, and turning ideas into intelligent solutions."
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
