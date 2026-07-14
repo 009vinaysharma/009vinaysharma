@@ -1,17 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinay Sharma
+# Hi 👋, I'm Vinay Sharma
 
-### 🚀 AI & Machine Learning Enthusiast | Data Science Learner | AWS Cloud Explorer
-
-<p>
-  Building intelligent applications by combining
-  <b>Machine Learning, Data Science, Backend Development, and Cloud Technologies</b>.
-</p>
+### Data Science & Machine Learning Enthusiast | AWS ML Engineer Intern | CSE (AI) Student
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=009vinaysharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  I enjoy working with data, building machine learning models, and deploying intelligent applications using cloud technologies.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=009vinaysharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -20,59 +17,40 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student in **Computer Science & Engineering (Artificial Intelligence)**
-- 🤖 Passionate about **Machine Learning, Data Science, AI and Cloud Computing**
-- ☁️ Hands-on experience with **AWS Machine Learning deployment workflows**
-- 🔭 Currently building **Machine Learning and Cloud-based projects**
-- 🌱 Currently learning **Machine Learning, Django, MLOps and AWS**
-- 🚀 Interested in deploying **real-world ML models into production**
-- 💡 Exploring **Data Science, Backend Development and Cloud Architecture**
-- 🤝 Open to collaborating on **AI, ML, Data Science and Open Source projects**
-- ⚡ I enjoy turning ideas and ML models into **working applications**
+- 📊 Interested in **Data Science, Machine Learning, Data Analytics, and Data Visualization**
+- ☁️ Hands-on experience with **AWS-based Machine Learning model deployment**
+- 🔭 Currently working on **Machine Learning and Cloud-based projects**
+- 🌱 Currently learning **Django, Machine Learning, AWS, and MLOps concepts**
+- 🚀 Built an end-to-end ML deployment workflow using **Amazon SageMaker, S3, Lambda, API Gateway, and FastAPI**
+- 💡 I enjoy transforming data and machine learning models into practical applications
+- 🤝 Open to collaborating on **Data Science, Machine Learning, AI, and Python projects**
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Areas of Interest
 
-```text
-Machine Learning  →  Model Development
-Data Science      →  Data Analysis & Insights
-AWS Cloud         →  ML Model Deployment
-FastAPI / Django  →  Backend Development
-MLOps             →  End-to-End ML Workflows
-```
+<p align="left">
+
+<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,dart" alt="Programming Languages" />
 </p>
 
-### 🌐 Web & Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,django" />
-</p>
-
-### 📱 Mobile Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
-</p>
-
-### 🔧 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
@@ -83,53 +61,81 @@ MLOps             →  End-to-End ML Workflows
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+</p>
+
+**Concepts:** Data Preprocessing • Exploratory Data Analysis • Feature Engineering • Classification • Regression • Model Evaluation • Model Deployment
+
+---
+
+## ☁️ AWS Cloud & ML Services
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+</p>
+
+### AWS ML Workflow Experience
+
+```text
+Dataset
+   ↓
+Data Preprocessing
+   ↓
+Machine Learning Model
+   ↓
+Model Serialization
+   ↓
+Amazon S3
+   ↓
+Amazon SageMaker Endpoint
+   ↓
+AWS Lambda
+   ↓
+Amazon API Gateway
+   ↓
+FastAPI Backend
+   ↓
+Web Application
+```
+
+---
+
+## 🌐 Web & Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,fastapi,tailwind" alt="Web Technologies" />
+</p>
+
+**Currently Learning:** Django
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
 </p>
 
 ---
 
-## ☁️ AWS Cloud & Machine Learning
-
-I have hands-on experience building and deploying machine learning workflows using AWS services.
+## 📱 Mobile App Development
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile Development" />
 </p>
-
-### 🔄 AWS ML Deployment Workflow
-
-```text
-Machine Learning Model
-        ↓
-Model Serialization
-        ↓
-Amazon S3
-        ↓
-Amazon SageMaker Endpoint
-        ↓
-AWS Lambda
-        ↓
-Amazon API Gateway
-        ↓
-FastAPI Backend
-        ↓
-Web Application
-```
 
 ---
 
@@ -137,8 +143,8 @@ Web Application
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -146,52 +152,122 @@ Web Application
 
 ---
 
-## 🚀 Featured Projects
+## 🔧 Tools & Development Environment
 
-### ☁️ AWS MLOps Student Marks Predictor
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Development Tools" />
+</p>
 
-An end-to-end machine learning deployment project built using:
+<p align="left">
 
-`Python` • `Scikit-learn` • `Amazon S3` • `Amazon SageMaker` • `AWS Lambda` • `Amazon API Gateway` • `FastAPI`
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-**Architecture:**
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ AWS MLOps Student Marks Predictor
+
+An end-to-end machine learning deployment project that predicts a student's **Physics marks** using **Maths and English marks**.
+
+### Tech Stack
+
+`Python` • `Scikit-learn` • `Joblib` • `Amazon S3` • `Amazon SageMaker` • `AWS Lambda` • `Amazon API Gateway` • `FastAPI` • `HTML/CSS/JavaScript`
+
+### Architecture
 
 ```text
-Frontend → FastAPI → API Gateway → Lambda → SageMaker → ML Prediction
+Frontend
+   ↓
+FastAPI
+   ↓
+Amazon API Gateway
+   ↓
+AWS Lambda
+   ↓
+Amazon SageMaker Endpoint
+   ↓
+ML Prediction
 ```
+
+### Highlights
+
+- Trained and serialized a Machine Learning model
+- Stored the model artifact in Amazon S3
+- Created custom SageMaker inference logic
+- Deployed the model as a real-time SageMaker endpoint
+- Invoked the endpoint using AWS Lambda
+- Exposed the ML workflow through Amazon API Gateway
+- Integrated the cloud API with a FastAPI backend
+- Built a web interface for real-time predictions
 
 🔗 **Repository:**  
 https://github.com/009vinaysharma/AWS-MLOps-Student-Marks-Predictor-final
 
 ---
 
-### 🩺 Healthcare Disease Prediction
+## 🩺 Healthcare Disease Prediction
 
-A machine learning web application for predicting health-related outcomes using trained ML models.
+A Machine Learning application for predicting health-related outcomes using trained ML models and an interactive web interface.
 
-**Technologies:**
+### Tech Stack
 
 `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Streamlit`
 
----
+### Highlights
 
-### 📄 AI Resume Analyzer
-
-An AI-powered application designed to analyze resumes and provide useful insights.
-
-**Technologies:**
-
-`Python` • `AI/ML` • `Web Development`
+- Data preprocessing and feature handling
+- Machine Learning model training
+- Model evaluation
+- Interactive prediction interface using Streamlit
 
 ---
 
-## 📈 GitHub Statistics
+## 📄 AI Resume Analyzer
+
+An AI-based web application designed to analyze resumes and provide useful insights.
+
+### Tech Stack
+
+`Python` • `AI/ML` • `Streamlit` • `Web Technologies`
+
+🔗 **Repository:**  
+https://github.com/009vinaysharma/AI-Resume-Analyzer
+
+---
+
+# 💼 Experience
+
+## ☁️ AWS ML Engineer Intern
+
+**GRRAS Solutions Pvt. Ltd.**
+
+- Worked with AWS services for Machine Learning workflows
+- Gained hands-on experience with cloud-based ML model deployment
+- Worked with services including Amazon SageMaker and Amazon S3
+- Built an end-to-end Machine Learning deployment project
+
+---
+
+## 🌐 Front-End Web Developer Intern
+
+**MantiQ Infotech**
+
+- Worked with frontend web technologies
+- Built responsive web interfaces
+- Gained practical experience in web development
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=009vinaysharma&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=009vinaysharma&theme=tokyonight" height="180" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=009vinaysharma&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=009vinaysharma&theme=tokyonight" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -201,23 +277,34 @@ An AI-powered application designed to analyze resumes and provide useful insight
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=009vinaysharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=009vinaysharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## 📊 GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=009vinaysharma&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=009vinaysharma&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🌱 Currently Learning
+
+- 🐍 Advanced Python
+- 🤖 Machine Learning
+- 🌐 Django & Backend Development
+- ☁️ AWS Cloud Services
+- 🚀 Machine Learning Model Deployment
+- 🔄 MLOps Concepts
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
 
@@ -225,12 +312,12 @@ An AI-powered application designed to analyze resumes and provide useful insight
   <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/009vinaysharma" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-009vinaysharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://github.com/009vinaysharma" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-009vinaysharma-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/009vinaysharma" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-009vinaysharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -239,8 +326,10 @@ An AI-powered application designed to analyze resumes and provide useful insight
 
 <div align="center">
 
-### 💡 "Building, learning, and turning ideas into intelligent solutions."
+### 💡 Learning. Building. Deploying.
 
-⭐ **Thanks for visiting my profile!**
+**Turning data and machine learning models into practical applications.**
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
