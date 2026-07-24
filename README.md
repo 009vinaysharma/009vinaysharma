@@ -167,6 +167,90 @@ Web Application
 ---
 
 # 🚀 Featured Projects
+# ❤️ AWS MLOps Heart Disease Predictor
+
+An end-to-end machine learning deployment project that predicts the likelihood of heart disease using patient health parameters. The project demonstrates a complete MLOps workflow on AWS, from model training and deployment to real-time cloud inference.
+
+## Tech Stack
+
+Python • Scikit-learn • Pandas • NumPy • Joblib • Amazon S3 • Amazon SageMaker • AWS Lambda • Amazon API Gateway • FastAPI • HTML/CSS/JavaScript
+
+---
+
+## Architecture
+
+Frontend
+   ↓
+FastAPI
+   ↓
+Amazon API Gateway
+   ↓
+AWS Lambda
+   ↓
+Amazon SageMaker Endpoint
+   ↓
+Heart Disease Prediction
+
+---
+
+## Highlights
+
+- Performed data preprocessing and feature engineering on the Heart Disease dataset
+- Trained and evaluated a Random Forest Machine Learning model
+- Serialized the trained model using Joblib
+- Stored the model artifact in Amazon S3
+- Created custom SageMaker inference logic
+- Deployed the model as a real-time SageMaker endpoint
+- Invoked the endpoint using AWS Lambda
+- Exposed the prediction service through Amazon API Gateway
+- Integrated the cloud API with a FastAPI backend
+- Built a responsive web interface for real-time heart disease prediction
+- Demonstrated an end-to-end AWS MLOps deployment workflow
+
+---
+
+## Live Demo
+
+🌐 **Live Application:** https://heart.vinaysharmatech.xyz/
+
+Example:
+- https://your-domain.com
+- https://xxxxx.execute-api.ap-south-1.amazonaws.com/prod
+- https://xxxxx.cloudfront.net
+
+---
+
+## Input Features
+
+- Age
+- Sex
+- Chest Pain Type
+- Resting Blood Pressure
+- Cholesterol
+- Fasting Blood Sugar
+- Resting ECG
+- Maximum Heart Rate
+- Exercise-Induced Angina
+- ST Depression (Oldpeak)
+- ST Slope
+- Number of Major Vessels (CA)
+- Thalassemia
+
+---
+
+## Prediction Output
+
+- 🟢 Low Risk of Heart Disease
+- 🔴 High Risk of Heart Disease
+
+---
+
+## Repository
+
+🔗 https://github.com/009vinaysharma/AWS-MLOps-Heart-Disease-Predictor
+
+
+---
 
 ## ☁️ AWS MLOps Student Marks Predictor
 
