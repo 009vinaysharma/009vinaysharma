@@ -213,11 +213,6 @@ Heart Disease Prediction
 
 🌐 **Live Application:** https://heart.vinaysharmatech.xyz/
 
-Example:
-- https://your-domain.com
-- https://xxxxx.execute-api.ap-south-1.amazonaws.com/prod
-- https://xxxxx.cloudfront.net
-
 ---
 
 ## Input Features
